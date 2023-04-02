@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding: 1%;
+    background-color: #186CA3;
+    color: white;
+    margin: 0 0 10px 0;
+    }
+#outside{
+   background-color: rgb(204, 201, 201);
+   padding: 13px 13px;
+   border-radius: 5px;
+   
+}
+#inside{
+    background-color: white;
+    padding: 13px 13px;
+    border-radius: 5px;
+}
+#taskList{
+    background-color: white;
+    padding: 13px 13px;
+    border-radius: 5px;
+    margin: 20px 0px;
+}
